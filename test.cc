@@ -1,5 +1,3 @@
-// Your First C++ Program
-
 #include <iostream>
 #include <random>
 int i = 0;
